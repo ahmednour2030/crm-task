@@ -30,11 +30,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 - ### write code `php artisan key:generate`
 
-- ### write code `php artisan serve`
-
 - ### write code `php artisan migrate`
 
 - ### write code `php artisan db:seed`
+
+- ### write code `php artisan serve`
 
 # Screen front end form Project
 
